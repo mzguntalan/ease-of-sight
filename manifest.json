@@ -1,0 +1,32 @@
+{
+  "manifestVersion": 1,
+  "id": "Ease-of-Sight",
+  "name": "Ease of Sight",
+  "author": "mzguntalan",
+  "repoUrl": "https://github.com/mzguntalan/ease-of-sight",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "theme": ["light", "dark"],
+  "enableOnMobile": true,
+  "description": "
+  # Ease of Sight
+
+  Ease of Sight helps you keep track of what you are reading and/or writing. 
+
+  ## Keep Track of Context with Hover Effects
+  Whenever you hover on a rem, a faint highlight background color appears on that rem and over the block under it.
+
+  ## Focus on your Editing
+  Whenever you edit a rem, a highlight background color appears and faint highlight background color over the adjacent rems of the same level.
+  ",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "Read"
+    }
+  ]
+}

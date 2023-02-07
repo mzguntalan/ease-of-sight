@@ -11,7 +11,7 @@
   },
   "theme": [],
   "enableOnMobile": true,
-  "description": "Ease of Sight helps you keep track of what you are reading and/or writing. Whenever you hover on a rem, a faint highlight background color appears on that rem and over the block under it. Whenever you edit a rem, a highlight background color appears and faint highlight background color over the adjacent rems of the same level.",
+  "description": "Ease of Sight helps you keep track of what you are reading and/or writing using strategic highlight background colors.",
   "requestNative": false,
   "requiredScopes": [
     {

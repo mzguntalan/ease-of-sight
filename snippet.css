@@ -1,0 +1,25 @@
+:root {
+	--ease-of-sight-primary-color: #F0FBFF;	
+	--ease-of-sight-secondary-color: #FAFEFF;
+	--ease-of-sight-border-color: #3366cc;		
+}
+
+:root:has(.dark-mode) {
+	--ease-of-sight-primary-color: #043559;	
+	--ease-of-sight-secondary-color: #041f33;	
+	--ease-of-sight-border-color: #3366cc;
+} 
+
+.rem-container--focused {
+	background-color: var(--ease-of-sight-primary-color );
+	
+}
+
+.TreeNode:has(> .rn-editor-container > .tree-node--parent > .rem-container--focused) {
+	background-color: var(--ease-of-sight-secondary-color);
+	border-color: var(--ease-of-sight-border-color) !important;	
+}
+
+.rn-editor-container:has(> .tree-node--parent > .rem > div > .rem-text:hover) {
+	background-color: var(--ease-of-sight-secondary-color);	
+}

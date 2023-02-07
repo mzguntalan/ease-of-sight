@@ -8,7 +8,6 @@ Whenever you hover on a rem, a faint highlight background color appears on that 
 Light Theme                | Dark Theme  
 :-------------------------:|:-------------------------:
 ![](https://github.com/mzguntalan/ease-of-sight/blob/main/imgs/light/hover_on_description.png)  |  ![](https://github.com/mzguntalan/ease-of-sight/blob/main/imgs/dark/hover_on_description.png)
-:-------------------------:|:-------------------------:
 ![](https://github.com/mzguntalan/ease-of-sight/blob/main/imgs/light/hover_on_fox.png)  |  ![](https://github.com/mzguntalan/ease-of-sight/blob/main/imgs/dark/hover_on_fox.png)
 
 ## Focus on your Editing
@@ -17,6 +16,5 @@ Whenever you edit a rem, a highlight background color appears and faint highligh
 Light Theme                | Dark Theme  
 :-------------------------:|:-------------------------:
 ![](https://github.com/mzguntalan/ease-of-sight/blob/main/imgs/light/edit_on_fox_color.png)  |  ![](https://github.com/mzguntalan/ease-of-sight/blob/main/imgs/dark/edit_on_fox_color.png)
-:-------------------------:|:-------------------------:
 ![](https://github.com/mzguntalan/ease-of-sight/blob/main/imgs/light/edit_on_person.png)  |  ![](https://github.com/mzguntalan/ease-of-sight/blob/main/imgs/dark/edit_on_person.png)
 
